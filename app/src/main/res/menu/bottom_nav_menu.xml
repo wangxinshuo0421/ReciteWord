@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_recite"
+        android:icon="@drawable/icon_recite"
+        android:title="背单词"/>
+
+    <item
+        android:id="@+id/navigation_brush"
+        android:icon="@drawable/icon_brush"
+        android:title="刷单词"/>
+
+    <item
+        android:id="@+id/navigation_fight"
+        android:icon="@drawable/icon_fight"
+        android:title="斗单词"/>
+
+    <item
+        android:id="@+id/navigation_wrong"
+        android:icon="@drawable/icon_wrong"
+        android:title="错题本"/>
+
+
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="200dp"/>
+    <solid android:background = "@drawable/icon_face1"/>
+    <padding android:bottom="50dp"
+        android:left="50dp"
+        android:right="50dp"
+        android:top="50dp"/>
+</shape>

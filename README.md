@@ -1,4 +1,5 @@
 # ReciteWord
+### 项目演示视频：https://www.bilibili.com/video/BV1SU4y1P7Uw/
 ### 主要功能
 #### 记单词
   选择认识，进入下一个单词；选择不认识，记录错题本；选择灯泡，提示意思
